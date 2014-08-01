@@ -42,6 +42,6 @@ use anything you want.
 2. Add more documents. 
 
 # Final
-All errors are mine and mine along. To fix them, just fork the repository and send a pull request.
+All errors are mine and mine alone. To fix them, just fork the repository and send a pull request.
 
 कायेन वाचा मानासेन्द्रियैर्वा बुद्धात्मना वा प्रकटे स्वभावात् करोमि यद्यत्सकलं परस्मै नारायणायेति समर्पयामि ।
